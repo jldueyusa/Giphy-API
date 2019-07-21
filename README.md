@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/jldueyusa/Word-Guess-Game/blob/master/assets/images/80sHairImagesAll.PNG" width="300" height="250">
-</p>
-
 # Welcome to the Comic Book Giphy API App
 
 This app uses and AJAX call to get the giphy API in order to display a list of giphy's based on your entry.
@@ -19,15 +15,15 @@ To view a step by step instructional video by clicking the link below
 
 1. In the app, enter your comic book character in the open field and hit "Submit."
 
-![giphy1](https://github.com/jldueyusa/Word-Guess-Game/blob/master/assets/images/word1.png)
+![giphy1](https://github.com/jldueyusa/Giphy-API/blob/master/assets/images/giphy1.png)
 
 2. After you hit "Submit," a button will appear with the comic book character you entered. 
 
-![giphy2](https://github.com/jldueyusa/Word-Guess-Game/blob/master/assets/images/word2.png)
+![giphy2](https://github.com/jldueyusa/Giphy-API/blob/master/assets/images/giphy2.png)
 
 3. When you click on the character button you entered, a list of giphs will appear with their rating. Clicking on the giph will turn it on and off.
 
-![Word3](https://github.com/jldueyusa/Word-Guess-Game/blob/master/assets/images/word3.png)
+![Word3](https://github.com/jldueyusa/Giphy-API/blob/master/assets/images/giphy1.png)
 
 # Tools and Applications
 - JavaScript
